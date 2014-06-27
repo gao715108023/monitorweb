@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1057272055">
+    <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="de7c15e0-c283-41fd-9518-ba10ecb08447">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.15.107.160:3306/process</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf9bdf9bdf9bdf9bdf9b</user-password>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/lib/commons-beanutils-1.8.0.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
