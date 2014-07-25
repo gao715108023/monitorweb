@@ -11,4 +11,4 @@ var $lang = {
     timeStr: "\u65F6\u95F4",
     quickStr: "\u5FEB\u901F\u9009\u62E9",
     err_1: '\u6700\u5C0F\u65E5\u671F\u4E0D\u80FD\u5927\u4E8E\u6700\u5927\u65E5\u671F\!'
-}
+};
